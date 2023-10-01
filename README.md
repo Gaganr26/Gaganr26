@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaganr26
+- 👋 Hi, I’m Gagan
 - 👀 I’m interested in new technology and coding
 - 🌱 I’m currently learning about data base and cloud
 - 📫 rech me at (gagangowdar26@gmail.com)
